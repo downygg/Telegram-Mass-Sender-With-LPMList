@@ -1,0 +1,4 @@
+[{"msg_id": 35, "channel": ""}]
+
+// msg_id is message id telegram (int)
+// channel is source channel to forward (String)
